@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Week4Tema2Exercitiul2
 {
-    class Stack
-    //M-am inspirat din https://www.lynda.com/C-tutorials/Stack-explained/604241/636309-4.html
+    class Stack   
     {
         //Variables or fields
         private int maxSize;
